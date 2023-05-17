@@ -1,2 +1,2 @@
 #!/bin/bash
-“Hello, World” > standard output 
+ls > “Hello, World". 
